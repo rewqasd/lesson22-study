@@ -1,0 +1,1969 @@
+{
+  "lesson": "Lesson 22",
+  "title": "Lesson 22 Walkthrough: My Daughter Jane and the Drift Bottle",
+  "titleNote": "The handout gives no lesson title. This title is a summary of the text; the textbook's usual title 'A glass envelope' does not appear in the handout.",
+  "source": "Lesson22(1).pdf (New Concept AI edition, course detail sheet 3, 10 pages)",
+  "sourcePath": "/Users/jacklei/Documents/NCE2/Lesson22(1).pdf",
+  "targetLevel": "Senior high school to CET-4",
+  "pageCount": 10,
+  "pageConvention": "Page numbers follow the PDF footers 1/10-10/10 and are written p1-p10.",
+  "language": "en",
+  "localisationNote": "The handout is written in Chinese. This edition is English-only: the handout's Chinese explanations, translations and notes are rendered here as plain-English glosses and notes. Every quoted English sentence is kept exactly as printed in the handout.",
+  "structure": [
+    {
+      "part": "Part 1 Vocabulary",
+      "pages": "p1-p4",
+      "content": "dream / age / channel / throw"
+    },
+    {
+      "part": "Part 2 Text",
+      "pages": "p4-p7",
+      "content": "the seven sentences of the text explained one by one, plus reviews of L21 and L14"
+    },
+    {
+      "part": "Part 3 Pronunciation",
+      "pages": "p7",
+      "content": "two marked-up images: linking, flap t, weak forms, sense-group pause (the page has no text; everything comes from the images)"
+    },
+    {
+      "part": "Part 4 Grammar & Writing",
+      "pages": "p7-p10",
+      "content": "verb + preposition of/from/in/on, plus imitation writing: an unexpected note"
+    }
+  ],
+  "colors": {
+    "tense": {
+      "pastContinuous": {
+        "name": "Past continuous",
+        "hex": "#2563eb",
+        "hint": "background action, action in progress (before 'and')"
+      },
+      "pastSimple": {
+        "name": "Past simple",
+        "hex": "#16a34a",
+        "hint": "single finished action, main story line (after 'and')"
+      },
+      "presentPerfect": {
+        "name": "Present perfect",
+        "hex": "#ea580c",
+        "hint": "stresses the effect on the present"
+      },
+      "presentSimple": {
+        "name": "Present simple",
+        "hex": "#7c3aed",
+        "hint": "regular habit now, signalled by 'now' + 'regularly'"
+      },
+      "futureSimple": {
+        "name": "Future simple",
+        "hex": "#dc2626",
+        "hint": "something very likely to happen in the future"
+      }
+    },
+    "prep": {
+      "in": {
+        "name": "in",
+        "hex": "#2563eb",
+        "core": "inside, within a frame or container"
+      },
+      "on": {
+        "name": "on",
+        "hex": "#16a34a",
+        "core": "on top of, making contact with a surface"
+      },
+      "from": {
+        "name": "from",
+        "hex": "#ea580c",
+        "core": "leaving a starting point, away from"
+      },
+      "of": {
+        "name": "of",
+        "hex": "#7c3aed",
+        "core": "a link between two things"
+      }
+    },
+    "note": "The two palettes belong to two different diagrams: the five tense colours are used only in timeline.svg and in the tense tags on the Text tab; the four preposition colours are used only in prepositions.svg."
+  },
+  "vocab": [
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "pos": "n./v.",
+      "coreMeaning": "a dream; an ambition (noun)",
+      "extendedMeaning": "to dream / to have a dream (verb). The noun covers both sleep dreams and ambitions; context decides which one.",
+      "pages": "p1, p4, p8",
+      "patterns": [
+        "dream of/about + sb/sth - to dream about somebody or something",
+        "dream of/about + doing sth - to dream of doing something",
+        "dream that + clause - to dream that something happened, or to dream of a future event",
+        "daydream about - to let your mind wander, to fantasise"
+      ],
+      "examples": [
+        {
+          "en": "Goodnight. Sweet dreams.",
+          "gloss": "A bedtime wish: sleep well and have pleasant dreams.",
+          "page": "p1"
+        },
+        {
+          "en": "I have a dream.",
+          "gloss": "I have an ambition, a great hope for the future.",
+          "page": "p1"
+        },
+        {
+          "en": "She'll dream about you.",
+          "gloss": "You will appear in her dreams.",
+          "page": "p1"
+        },
+        {
+          "en": "I dreamt about you last night.",
+          "gloss": "You were in my dream last night.",
+          "page": "p1"
+        },
+        {
+          "en": "She dreamed of/about becoming a chef.",
+          "gloss": "Her ambition was to become a chef.",
+          "page": "p1"
+        },
+        {
+          "en": "I dreamt (that) I got the job.",
+          "gloss": "In my dream I got the job. The word 'that' can be left out.",
+          "page": "p1"
+        },
+        {
+          "en": "She dreamed that one day she would be famous.",
+          "gloss": "She hoped that one day she would be famous.",
+          "page": "p1"
+        },
+        {
+          "en": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+          "gloss": "Jane, the writer's daughter, never expected to get a letter from a girl her own age in Holland.",
+          "page": "p4"
+        },
+        {
+          "en": "She dreamed of becoming an actress.",
+          "gloss": "Her ambition was to become an actress.",
+          "page": "p8"
+        },
+        {
+          "en": "He'd been dreaming of her.",
+          "gloss": "He kept dreaming about her.",
+          "page": "p8"
+        }
+      ],
+      "confusions": [
+        "One word, two meanings: the noun covers a sleep dream and an ambition, the verb covers 'to dream' and 'to have an ambition'. Context decides (p1).",
+        "daydream means to let your mind wander in the daytime and takes about; keep it apart from the 'ambition' sense of dream (p1)."
+      ],
+      "notes": "Handout wording: as a verb, dream has the past forms dreamt/dreamed. The handout gives no irregular-verb table; both spellings appear in its examples."
+    },
+    {
+      "word": "age",
+      "phonetic": "/eɪdʒ/",
+      "pos": "n.",
+      "coreMeaning": "age, how old somebody is",
+      "extendedMeaning": "a historical era or period; a very long time (for ages)",
+      "pages": "p1-p2",
+      "patterns": [
+        "How old is ...? - asking about age",
+        "What's ... age? / What age is ...? - two more ways to ask about age",
+        "... is <number> years old. / His age is <number>. - answering",
+        "at the age of + number / at age + number - at the age of ...",
+        "noun + of his/her own age - the same age as him/her",
+        "for ages - for a very long time"
+      ],
+      "examples": [
+        {
+          "en": "He is eight (years old).",
+          "gloss": "He is eight years old.",
+          "page": "p1"
+        },
+        {
+          "en": "His age is eight.",
+          "gloss": "The same fact in the 'His age is ...' pattern.",
+          "page": "p1"
+        },
+        {
+          "en": "In Britain, schooling starts at age 5.",
+          "gloss": "In Britain children start school at the age of five.",
+          "page": "p2"
+        },
+        {
+          "en": "Kids need friends of their own age to play with.",
+          "gloss": "Children need friends of the same age to play with.",
+          "page": "p2"
+        },
+        {
+          "en": "This is the age of miracles, doctor.",
+          "gloss": "Doctor, this is an age full of miracles.",
+          "page": "p2"
+        },
+        {
+          "en": "We are living in the age of technology.",
+          "gloss": "We live in the age of technology.",
+          "page": "p2"
+        },
+        {
+          "en": "I've been waiting for ages.",
+          "gloss": "I have been waiting for a very long time.",
+          "page": "p2"
+        },
+        {
+          "en": "She needs more friends of her own age.",
+          "gloss": "She needs more friends of the same age as her.",
+          "page": "p4"
+        }
+      ],
+      "confusions": [
+        "Do not mix up the three question patterns: How old is ...? / What's ... age? / What age is ...? (p1)",
+        "of one's own age means 'the same age as the person', not 'the age of that person'; one's changes with the subject: his / her / their (p2, p4)"
+      ],
+      "notes": "The handout marks both 'era, period' and 'a very long time' as extended meanings, with This is the age of miracles and I've been waiting for ages as the examples."
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænl/",
+      "pos": "n.",
+      "coreMeaning": "a channel of the sea; the Channel = the English Channel",
+      "extendedMeaning": "the basic idea is 'a passage': a duct or waterway, a fairway, a customs lane, a TV channel. The handout sums it up as words connected with 'a way through'.",
+      "pages": "p2-p3",
+      "patterns": [
+        "the Channel - the English Channel; the capital C is obligatory",
+        "drainage/irrigation channels - ditches that drain or supply water",
+        "narrow channel - a narrow fairway or sea route",
+        "the green channel - the customs lane for goods you need not declare",
+        "the Disney Channel - a TV channel",
+        "a YouTube channel - an online video channel"
+      ],
+      "examples": [
+        {
+          "en": "the Channel = the English Channel",
+          "gloss": "The sea between England and France.",
+          "page": "p2"
+        },
+        {
+          "en": "drainage/irrigation channels",
+          "gloss": "Ditches that carry water away or bring it to the fields.",
+          "page": "p3"
+        },
+        {
+          "en": "narrow channel",
+          "gloss": "A narrow fairway or sea route.",
+          "page": "p3"
+        },
+        {
+          "en": "If you have nothing to declare, go through the green channel.",
+          "gloss": "At customs, use the green lane if you have nothing to declare.",
+          "page": "p3"
+        },
+        {
+          "en": "The kids are watching cartoons on the Disney Channel.",
+          "gloss": "The children are watching cartoons on the Disney TV channel.",
+          "page": "p3"
+        },
+        {
+          "en": "Welcome to my YouTube channel.",
+          "gloss": "Welcome to my YouTube channel - the speaker's own online video channel.",
+          "page": "p3"
+        },
+        {
+          "en": "we were travelling across the Channel",
+          "gloss": "We were crossing the English Channel.",
+          "page": "p5"
+        }
+      ],
+      "confusions": [
+        "Chanel is the luxury brand; it differs from channel by only one letter, so watch the spelling (p3).",
+        "When it means the English Channel, the C must be capitalised; lower-case channel is just the ordinary noun (p2)."
+      ],
+      "notes": "Handout summary: channel is always connected with 'a way through' - sea channel, duct, passage, TV channel."
+    },
+    {
+      "word": "throw",
+      "phonetic": "/θrəʊ/",
+      "pos": "v.",
+      "coreMeaning": "to throw, to toss",
+      "extendedMeaning": "throw sth away - to discard; throw sth into - to toss into; throw sb sth - the double-object pattern",
+      "pages": "p3-p5",
+      "patterns": [
+        "throw sth - to throw something",
+        "throw sth to sb - to stresses the direction",
+        "throw sth at sb - at stresses the target",
+        "throw sb sth - double-object pattern",
+        "throw sth away - to discard, to get rid of",
+        "throw sth into ... - to throw something into something"
+      ],
+      "examples": [
+        {
+          "en": "He threw his shirt.",
+          "gloss": "He tossed his shirt.",
+          "page": "p3"
+        },
+        {
+          "en": "He threw his shirt to me. = He threw me his shirt.",
+          "gloss": "He tossed his shirt in my direction; the double-object version means the same.",
+          "page": "p3"
+        },
+        {
+          "en": "Dad: Throw it away!",
+          "gloss": "Dad: Get rid of it!",
+          "page": "p3-p4"
+        },
+        {
+          "en": "I don't need that—you can throw it away.",
+          "gloss": "I don't need that, you can get rid of it.",
+          "page": "p4"
+        },
+        {
+          "en": "She threw the bottle into the sea.",
+          "gloss": "She tossed the bottle into the sea.",
+          "page": "p5"
+        }
+      ],
+      "confusions": [
+        "throw sth to sb (to stresses direction) and throw sth at sb (at stresses the target) are not interchangeable (p3).",
+        "The past forms are threw-thrown, never 'throwed' (p3)."
+      ],
+      "notes": "Handout note: into stresses the idea of 'going in'; throw sth into means to toss something into something."
+    }
+  ],
+  "grammar": [
+    {
+      "point": "The core idea of the prepositions of / from / in / on",
+      "page": "p8",
+      "coreIdea": "of = a link between two things; from = leaving a starting point and setting off; in = inside, within a frame; on = on top of, making contact with a surface",
+      "colorKey": "prep",
+      "rules": [
+        "A preposition is not a Chinese word to be memorised but a spatial or logical idea: link (of), starting point (from), container (in), contact surface (on).",
+        "Change the preposition and the verb changes meaning: dream of (to hope to do) against dream about (to see in a dream); believe in (to trust, to have faith) against believe sb (to believe what somebody says)."
+      ],
+      "examples": [
+        {
+          "en": "He'd been dreaming of her.",
+          "gloss": "He kept dreaming about her.",
+          "page": "p8"
+        },
+        {
+          "en": "Listen, I shall be thinking of you always.",
+          "gloss": "Listen, I will always remember you.",
+          "page": "p8"
+        },
+        {
+          "en": "She began to walk away from him.",
+          "gloss": "She started to walk away from him.",
+          "page": "p8"
+        },
+        {
+          "en": "I don't like to borrow from friends.",
+          "gloss": "I don't like borrowing money from friends.",
+          "page": "p8"
+        },
+        {
+          "en": "I never went in pubs.",
+          "gloss": "I never went into pubs.",
+          "page": "p8"
+        },
+        {
+          "en": "I got stuck in a traffic jam for half an hour.",
+          "gloss": "I was stuck in a traffic jam for half an hour.",
+          "page": "p8"
+        },
+        {
+          "en": "Be quiet – let me concentrate on my homework.",
+          "gloss": "Be quiet, let me give my full attention to my homework.",
+          "page": "p8"
+        },
+        {
+          "en": "The check is on me this time.",
+          "gloss": "I am paying the bill this time.",
+          "page": "p8"
+        }
+      ],
+      "commonMistakes": [
+        "Treating a preposition as a Chinese equivalent: from is not only 'from', it carries the movement of leaving a starting point (p8).",
+        "on marks a contact surface, so concentrate on and The check is on me both take on, never in (p8)."
+      ],
+      "reviewNote": "Handout note: review of prepositions, New Concept Book 1 L25-L28."
+    },
+    {
+      "point": "Verb + preposition = phrasal verb",
+      "page": "p8",
+      "coreIdea": "A verb plus a preposition behaves like a transitive verb, so an object can follow directly",
+      "colorKey": "prep",
+      "rules": [
+        "Verb + preposition = a phrasal verb; the whole unit works like one transitive verb.",
+        "The object follows the preposition straight away: dream of + doing sth, and note that the verb after a preposition takes -ing."
+      ],
+      "examples": [
+        {
+          "en": "She dreamed of becoming an actress.",
+          "gloss": "Her ambition was to become an actress.",
+          "page": "p8"
+        },
+        {
+          "en": "I dreamt about you last night.",
+          "gloss": "You were in my dream last night.",
+          "page": "p8"
+        }
+      ],
+      "commonMistakes": [
+        "After a preposition a verb must take -ing: dreamed of receiving, not dreamed of receive (p4, p8)."
+      ]
+    },
+    {
+      "point": "Verb + of - connected with",
+      "page": "p8",
+      "coreIdea": "of marks a link, so verb + of means 'connected with something'",
+      "colorKey": "prep",
+      "rules": [
+        "consist of - to be made up of",
+        "hear of - to hear about, to know of"
+      ],
+      "examples": [
+        {
+          "en": "Breakfast consists of bread and milk.",
+          "gloss": "Breakfast is made up of bread and milk.",
+          "page": "p8"
+        },
+        {
+          "en": "Have you heard of her?",
+          "gloss": "Do you know about her?",
+          "page": "p8"
+        }
+      ],
+      "commonMistakes": [
+        "consist of is not used in the passive: not 'Breakfast is consisted of ...'. The handout does not expand on this; read the whole unit as a phrasal verb."
+      ]
+    },
+    {
+      "point": "Verb + from - source, coming from",
+      "page": "p9",
+      "coreIdea": "from is the starting point, so verb + from marks a source or a cause",
+      "colorKey": "prep",
+      "rules": [
+        "benefit from - to gain from something",
+        "suffer from - to be troubled by an illness or pain"
+      ],
+      "examples": [
+        {
+          "en": "Many thousands have benefited from the new treatment.",
+          "gloss": "Tens of thousands of people have gained from the new treatment.",
+          "page": "p9"
+        },
+        {
+          "en": "She's suffering from back pain.",
+          "gloss": "She is troubled by back pain.",
+          "page": "p9"
+        }
+      ],
+      "commonMistakes": [
+        "receive sth from sb and hear from sb also take from; note the handout's equation receive a letter from = hear from (p4)."
+      ]
+    },
+    {
+      "point": "Verb + in - in, within a frame",
+      "page": "p9",
+      "coreIdea": "in is a container or a frame, so verb + in marks being inside a range or a framework",
+      "colorKey": "prep",
+      "rules": [
+        "believe in - to trust, to have faith in",
+        "fill in - to complete a form"
+      ],
+      "examples": [
+        {
+          "en": "My son believes in Santa Claus.",
+          "gloss": "My son has faith in Father Christmas.",
+          "page": "p9"
+        },
+        {
+          "en": "Please fill in this application form.",
+          "gloss": "Please complete this application form.",
+          "page": "p9"
+        }
+      ],
+      "commonMistakes": [
+        "believe in sb means to trust or have faith in somebody; believe sb means to believe what somebody says. The handout gives only believe in, so the contrast is a natural extension of the preposition idea."
+      ]
+    },
+    {
+      "point": "Verb + on - on, on the surface",
+      "page": "p9",
+      "coreIdea": "on marks a contact surface, so verb + on means focusing on something",
+      "colorKey": "prep",
+      "rules": [
+        "call on - to visit somebody",
+        "focus on - to concentrate on",
+        "concentrate on - to give all your attention to something"
+      ],
+      "examples": [
+        {
+          "en": "Let's call on Kate on the way home.",
+          "gloss": "Let's visit Kate on our way home.",
+          "page": "p9"
+        },
+        {
+          "en": "Focus on your own problems.",
+          "gloss": "Give your attention to your own problems.",
+          "page": "p9"
+        },
+        {
+          "en": "concentrate on sth",
+          "gloss": "To give your full attention to something.",
+          "page": "p8"
+        }
+      ],
+      "commonMistakes": [
+        "The on of focus on and concentrate on cannot become in or at (p8, p9)."
+      ]
+    },
+    {
+      "point": "Sometimes verb = verb + preposition",
+      "page": "p9-p10",
+      "coreIdea": "A few verbs mean the same with or without the preposition; the preposition merely makes the direction explicit",
+      "colorKey": "prep",
+      "rules": [
+        "He fought the enemy. = He fought against the enemy."
+      ],
+      "examples": [
+        {
+          "en": "He fought the enemy.",
+          "gloss": "He fought against the enemy.",
+          "page": "p9-p10"
+        },
+        {
+          "en": "He fought against the enemy.",
+          "gloss": "The same meaning with the preposition added.",
+          "page": "p9-p10"
+        }
+      ],
+      "commonMistakes": [
+        "Do not treat 'verb + preposition = phrasal verb' as an absolute rule; some verbs mean the same either way (p9)."
+      ]
+    },
+    {
+      "point": "Verb + noun + preposition",
+      "page": "p10",
+      "coreIdea": "In this pattern the noun can take an adjective in front of it, and the preposition stays at the end",
+      "colorKey": "prep",
+      "rules": [
+        "pay attention to",
+        "pay close attention to - an adjective can be added before the noun"
+      ],
+      "examples": [
+        {
+          "en": "Pay attention to what the teacher says.",
+          "gloss": "Listen carefully to what the teacher says.",
+          "page": "p10"
+        },
+        {
+          "en": "He paid scant attention to what the teacher said.",
+          "gloss": "He hardly listened to what the teacher said.",
+          "page": "p10"
+        }
+      ],
+      "commonMistakes": [
+        "When an adjective such as close or scant is added before attention, the preposition to is still needed (p10)."
+      ]
+    }
+  ],
+  "text": {
+    "original": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland. Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle. She threw the bottle into the sea. She never thought of it again, but ten months later, she received a letter from a girl in Holland. Both girls write to each other regularly now. However, they have decided to use the post office. Letters will cost a little more, but they will certainly travel faster.",
+    "gloss": "Jane, the writer's daughter, never expected a letter from a girl her own age in Holland. Last year, while crossing the English Channel, she put a piece of paper with her name and address on it into a bottle and threw the bottle into the sea. She forgot about it, but ten months later a letter arrived from a girl in Holland. The two girls now write to each other regularly, yet they have decided to use the post office, which will cost a little more but will certainly be faster.",
+    "sentences": [
+      {
+        "n": 1,
+        "en": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+        "gloss": "Jane, the writer's daughter, never expected to get a letter from a girl her own age in Holland.",
+        "tenseKey": "pastSimple",
+        "page": "p4"
+      },
+      {
+        "n": 2,
+        "en": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+        "gloss": "Last year, while we were crossing the English Channel, Jane put a piece of paper with her name and address on it into a bottle.",
+        "tenseKey": "pastContinuous",
+        "page": "p5"
+      },
+      {
+        "n": 3,
+        "en": "She threw the bottle into the sea.",
+        "gloss": "She tossed the bottle into the sea.",
+        "tenseKey": "pastSimple",
+        "page": "p5"
+      },
+      {
+        "n": 4,
+        "en": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+        "gloss": "She never thought about the bottle again, but ten months later she got a letter from a girl in Holland.",
+        "tenseKey": "pastSimple",
+        "page": "p6"
+      },
+      {
+        "n": 5,
+        "en": "Both girls write to each other regularly now.",
+        "gloss": "The two girls now write to each other at regular intervals.",
+        "tenseKey": "presentSimple",
+        "page": "p6"
+      },
+      {
+        "n": 6,
+        "en": "However, they have decided to use the post office.",
+        "gloss": "Even so, they have made up their minds to use the post office.",
+        "tenseKey": "presentPerfect",
+        "page": "p6"
+      },
+      {
+        "n": 7,
+        "en": "Letters will cost a little more, but they will certainly travel faster.",
+        "gloss": "Letters will cost slightly more, but they will certainly be faster.",
+        "tenseKey": "futureSimple",
+        "page": "p7"
+      }
+    ],
+    "timeline": [
+      {
+        "order": 1,
+        "time": "Last year (the story opens)",
+        "event": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+        "gloss": "Jane never expected a letter from a girl her own age in Holland.",
+        "tenseKey": "pastSimple",
+        "page": "p4",
+        "note": "dreamed is past simple: it sets the whole story in the past. never strengthens the negative: 'never at that time'."
+      },
+      {
+        "order": 2,
+        "time": "Last year - background action",
+        "event": "we were travelling across the Channel",
+        "gloss": "We were crossing the English Channel.",
+        "tenseKey": "pastContinuous",
+        "page": "p5",
+        "note": "Before 'and' the past continuous describes the background, an action in progress; across stresses moving over a surface."
+      },
+      {
+        "order": 3,
+        "time": "Last year - the key action",
+        "event": "Jane put a piece of paper with her name and address on it into a bottle",
+        "gloss": "Jane put a piece of paper with her name and address on it into a bottle.",
+        "tenseKey": "pastSimple",
+        "page": "p5",
+        "note": "After 'and' the past simple carries the point of the sentence, the single finished action: put sth into a bottle."
+      },
+      {
+        "order": 4,
+        "time": "Straight afterwards",
+        "event": "She threw the bottle into the sea.",
+        "gloss": "She tossed the bottle into the sea.",
+        "tenseKey": "pastSimple",
+        "page": "p5",
+        "note": "throw sth into - to toss something into something; into stresses 'going in'."
+      },
+      {
+        "order": 5,
+        "time": "Ten months later",
+        "event": "she received a letter from a girl in Holland",
+        "gloss": "She got a letter from a girl in Holland.",
+        "tenseKey": "pastSimple",
+        "page": "p6",
+        "note": "The point of the sentence sits after 'but': the story is not over. receive sth from sb; in Holland adds where the girl lives."
+      },
+      {
+        "order": 6,
+        "time": "Now",
+        "event": "Both girls write to each other regularly now.",
+        "gloss": "The two girls now write to each other at regular intervals.",
+        "tenseKey": "presentSimple",
+        "page": "p6",
+        "note": "The time marker is now. Both takes a plural noun and a plural verb; regularly shows how often they write."
+      },
+      {
+        "order": 7,
+        "time": "Now (done, with an effect on now)",
+        "event": "However, they have decided to use the post office.",
+        "gloss": "Even so, they have made up their minds to use the post office.",
+        "tenseKey": "presentPerfect",
+        "page": "p6",
+        "note": "have decided is present perfect and stresses the effect on the present: no more drift bottles. However starts the sentence and is followed by a comma."
+      },
+      {
+        "order": 8,
+        "time": "In the future",
+        "event": "Letters will cost a little more, but they will certainly travel faster.",
+        "gloss": "Letters will cost slightly more, but they will certainly be faster.",
+        "tenseKey": "futureSimple",
+        "page": "p7",
+        "note": "The future simple states what is very likely to happen. cost takes a thing as its subject: sth cost sb + money. a little more and faster are the comparative forms of much and fast."
+      }
+    ],
+    "logic": [
+      {
+        "marker": "and",
+        "page": "p5",
+        "relation": "It joins two complete clauses and carries two tenses: before and, the background action in progress (past continuous); after and, the point of the sentence, the finished action (past simple)."
+      },
+      {
+        "marker": "but",
+        "page": "p6",
+        "relation": "The point is after but: the story is not over."
+      },
+      {
+        "marker": "However",
+        "page": "p6",
+        "relation": "It marks a contrast and shows that the way they send letters has changed. It starts the sentence and takes a comma."
+      },
+      {
+        "marker": "both / each other",
+        "page": "p6",
+        "relation": "both refers to Jane and the Dutch girl together; each other means 'one another' - people doing the same thing and feeling the same way."
+      }
+    ],
+    "points": [
+      {
+        "target": "My daughter, Jane,",
+        "page": "p4",
+        "detail": "Jane is an appositive to My daughter: it tells us the daughter's name and is set off by commas."
+      },
+      {
+        "target": "never dreamed of receiving",
+        "page": "p4",
+        "detail": "dreamed is past simple because the story happened in the past; dream of doing sth means to dream or hope to do something; never strengthens the negative. never + past simple means 'never at that time' (compare: I never knew you had a twin sister.)."
+      },
+      {
+        "target": "receive a letter from",
+        "page": "p4",
+        "detail": "receive a letter from = hear from, to get a letter from somebody (compare: I used to hear from my best friend.)."
+      },
+      {
+        "target": "of her own age",
+        "page": "p4",
+        "detail": "of one's own age means 'the same age' (compare: She needs more friends of her own age.)."
+      },
+      {
+        "target": "Holland / the Netherlands",
+        "page": "p4-p5",
+        "detail": "Country and region: The Netherlands and Holland both name the country, but the official name is the Netherlands. The adjective is Dutch (Dutch people, the Dutch language). One person is a Dutchwoman or a Dutchman; the Dutch means the Dutch people as a whole."
+      },
+      {
+        "target": "a piece of paper",
+        "page": "p5",
+        "detail": "a piece of paper - one sheet; paper is uncountable (compare: Write it down on a piece of paper.)."
+      },
+      {
+        "target": "with her name and address on it",
+        "page": "p5",
+        "detail": "with means 'having, carrying'; do not turn the meaning into the verb write just because of the translation."
+      },
+      {
+        "target": "She never thought of it again",
+        "page": "p6",
+        "detail": "never + past simple means 'never thought of it at that time'; think of means to think about, to recall; it stands for the glass bottle thrown away earlier (compare: I never thought of him again.)."
+      },
+      {
+        "target": "Both girls write to each other regularly now.",
+        "page": "p6",
+        "detail": "The tense changes to the present simple; the time marker is now; both takes a plural noun, so both girls takes a plural verb; regularly shows how often they write; each other means 'one another'."
+      },
+      {
+        "target": "have decided to use",
+        "page": "p6",
+        "detail": "Present perfect, stressing the effect on the present: they no longer send letters in bottles."
+      },
+      {
+        "target": "cost / a little more / faster",
+        "page": "p7",
+        "detail": "The subject of cost is a thing: sth cost sb + money. more is the comparative of the adverb much; a little more states by how much - slightly more. faster is the comparative of the adverb fast. certainly strengthens the statement and shows the writer agrees with using the post office."
+      }
+    ],
+    "reviews": [
+      {
+        "source": "L21",
+        "page": "p5",
+        "en": "Last year, however, it came into use.",
+        "gloss": "Handout note: the airport began to use it last year."
+      },
+      {
+        "source": "L14",
+        "page": "p6",
+        "en": "Neither of us spoke during the journey.",
+        "gloss": "Neither of the two of us said a word during the journey."
+      }
+    ]
+  },
+  "pronunciation": {
+    "sourceNote": "Part 3 Pronunciation (p7) has no text at all; its content is two marked-up images. This tab transcribes those marks into searchable text and embeds the original images in index.html.",
+    "words": [
+      {
+        "word": "daughter",
+        "phonetic": "/ˈdɔːtər/",
+        "note": "The handout prints the phonetic transcription directly in the text line.",
+        "page": "p7"
+      },
+      {
+        "word": "letter",
+        "phonetic": "",
+        "note": "/flap t/: the t is marked in blue; between two vowels an American speaker turns it into a light flap.",
+        "page": "p7"
+      },
+      {
+        "word": "bottle",
+        "phonetic": "",
+        "note": "/flap t/: the same mark on tt.",
+        "page": "p7"
+      },
+      {
+        "word": "little",
+        "phonetic": "",
+        "note": "/flap t/: the same mark on tt.",
+        "page": "p7"
+      },
+      {
+        "word": "The Netherlands / Holland",
+        "phonetic": "",
+        "note": "The handout gives the region name and its derivatives in Part 2: Dutch / a Dutchwoman / a Dutchman / the Dutch.",
+        "page": "p4-p5"
+      }
+    ],
+    "linking": [
+      {
+        "pair": "dreamed of receiving",
+        "detail": "Blue arcs under of and under of receiving: dreamed, of and receiving run together as one chain.",
+        "page": "p7"
+      },
+      {
+        "pair": "girl of her",
+        "detail": "Arcs under girl and under of her; of her is weak and runs on.",
+        "page": "p7"
+      },
+      {
+        "pair": "own age",
+        "detail": "Arc under own: own + age, a consonant linking into a vowel.",
+        "page": "p7"
+      },
+      {
+        "pair": "Last year",
+        "detail": "The t of Last is marked in blue and joins year: /t/ + /j/.",
+        "page": "p7"
+      },
+      {
+        "pair": "put a",
+        "detail": "Arc under put: put + a.",
+        "page": "p7"
+      },
+      {
+        "pair": "piece of paper",
+        "detail": "Arc under of: of + paper.",
+        "page": "p7"
+      },
+      {
+        "pair": "name and address",
+        "detail": "Arcs under name and under and: name + and + address.",
+        "page": "p7"
+      },
+      {
+        "pair": "address on it",
+        "detail": "Arcs under on and under it: on + it.",
+        "page": "p7"
+      },
+      {
+        "pair": "Channel and Jane",
+        "detail": "The d of and is marked in blue: and is weakened and joins Jane.",
+        "page": "p7"
+      },
+      {
+        "pair": "thought of it",
+        "detail": "Arcs under of and under it: thought + of + it.",
+        "page": "p7"
+      },
+      {
+        "pair": "each other",
+        "detail": "Arc under each: each + other.",
+        "page": "p7"
+      },
+      {
+        "pair": "letter from",
+        "detail": "Arc under letter: the r of letter joins from.",
+        "page": "p7"
+      },
+      {
+        "pair": "from a girl",
+        "detail": "Arc under from: from + a.",
+        "page": "p7"
+      },
+      {
+        "pair": "cost a little",
+        "detail": "Arc under cost a, and little carries a separate /flap t/ mark.",
+        "page": "p7"
+      }
+    ],
+    "specialMarks": [
+      {
+        "mark": "//",
+        "detail": "Sense-group pause: ... address on it // into a bottle. Break the breath here.",
+        "page": "p7"
+      },
+      {
+        "mark": "(w)",
+        "detail": "Intrusive sound: a light /w/ is inserted between into and a, so into a bottle is read into-(w)-a bottle.",
+        "page": "p7"
+      },
+      {
+        "mark": "/flap t/",
+        "detail": "American flap: the t / tt of letter, bottle and little becomes a flap.",
+        "page": "p7"
+      },
+      {
+        "mark": "Blue letters",
+        "detail": "Weak forms and elision: the h of with her name (the /h/ is usually dropped), the d of and, the silent e of write, the -ed of decided. See the images.",
+        "page": "p7"
+      }
+    ],
+    "stress": [
+      {
+        "item": "daughter",
+        "detail": "/ˈdɔːtər/ - the stress falls on the first syllable, daugh-.",
+        "page": "p7"
+      },
+      {
+        "item": "Sentence stress and intonation",
+        "detail": "The handout's pronunciation page marks no sentence stress and no intonation; it shows only the transcriptions, linking, flap t, weak forms and pause listed above. Nothing is guessed here.",
+        "page": "not given in the handout"
+      }
+    ],
+    "images": [
+      {
+        "file": "pron-000.png",
+        "caption": "Pronunciation image 1 (p7): sentences 1-3, with /ˈdɔːtər/, /flap t/, linking arcs, the // pause and the (w) intrusive sound.",
+        "page": "p7"
+      },
+      {
+        "file": "pron-001.png",
+        "caption": "Pronunciation image 2 (p7): sentences 4-7, with /flap t/, linking arcs and weak-form marks.",
+        "page": "p7"
+      }
+    ]
+  },
+  "writing": {
+    "topic": "Imitation writing: an unexpected note",
+    "page": "p10",
+    "storyPlan": "Story plan in English (the handout gives this plan and then the model text): my best friend Mary never expected an email from a boy her own age. Last year, while we were studying in the library, Mary put a note with her name and email address on it into a book and put the book back on the shelf. She never thought about the book again, but ten months later she got an email from a boy. He must have read the book with the note in it. The two of them now write regularly, and they have decided to meet up one day.",
+    "model": "My best friend, Mary, never dreamed of receiving an email from a boy of her own age. Last year, we were studying in the library and Mary put a note with her name and email address on it into a book. She put the book back on the shelf. She never thought of it again, but ten months later, she received an email from a boy. The boy must have read the book with that note. They write to each other regularly now. They have decided to meet up one day.",
+    "template": [
+      "1 Opening (past simple): My best friend, ___ (name), never dreamed of receiving a ___ (object) from a ___ (person) of his/her own age.",
+      "2 Background + key action (past continuous + past simple): Last year, we were ___ -ing ___ and ___ (subject) put a ___ (note/object) with his/her name and ___ on it into a ___.",
+      "3 Follow-up action (past simple): He/She put the ___ back ___.",
+      "4 Turning point + time jump (past simple): He/She never thought of it again, but ___ months later, he/she received a ___ from ___.",
+      "5 Deduction (must have done): The ___ must have read/seen the ___ with that ___.",
+      "6 Present situation (present simple + now): They write to each other regularly now.",
+      "7 Decision (present perfect): They have decided to ___ one day."
+    ],
+    "usefulPatterns": [
+      "never dreamed of receiving ... from a ... of his/her own age - never expected to get something from somebody the same age",
+      "we were travelling/studying ... and ... put ... into ... - past continuous sets the background, past simple delivers the point",
+      "with his/her name and address on it - carrying his or her name and address",
+      "never thought of it again, but ten months later ... - forgot all about it, yet ten months later ...",
+      "must have read the book with that note - certainly read the book containing the note",
+      "have decided to use/meet up - present perfect for a decision already made",
+      "cost a little more, but ... travel faster - a little dearer, but much quicker"
+    ],
+    "notes": "The model text matches the handout's English model. The handout prints only the story plan plus the model; the seven template steps are the model's own structure broken down."
+  },
+  "checklist": [
+    {
+      "item": "Original examples kept",
+      "result": "Yes - every example comes from the handout, p1-p10; no new examples were invented."
+    },
+    {
+      "item": "Page references given",
+      "result": "Yes - page numbers follow the PDF footers 1/10-10/10 and are written p1-p10."
+    },
+    {
+      "item": "Core and extended meanings separated",
+      "result": "Yes - coreMeaning and extendedMeaning are separate fields for every word."
+    },
+    {
+      "item": "Anything invented?",
+      "result": "No - wherever the handout is silent (lesson title, sentence stress and intonation) the file says 'not given in the handout'."
+    },
+    {
+      "item": "Interactive practice with feedback",
+      "result": "45 interactive items (9 multiple choice, 12 gap fills, 9 true/false, 6 word-order tasks, 3 matching tasks, 7 guided writing frames). Each item checks the answer in the browser and explains it; the six scored writing frames and the free-writing frame all have a model answer."
+    },
+    {
+      "item": "Language of the package",
+      "result": "English only. The handout is Chinese-medium, so its Chinese explanations and translations are rendered as plain-English glosses; the quoted English sentences are unchanged."
+    }
+  ],
+  "practice": {
+    "intro": "Every item below is interactive: click an option, type a word, choose True or False, build a sentence from the given words, match the pairs, or fill the frames one sentence at a time. Your score is kept in this browser.",
+    "note": "All answers come from the handout (p1-p10). After a wrong attempt the item shows the correct answer and the reason.",
+    "mcq": [
+      {
+        "id": "m1",
+        "page": "p5",
+        "prompt": "Jane put a piece of paper ______ a bottle.",
+        "options": [
+          "on",
+          "into",
+          "from",
+          "of"
+        ],
+        "answer": 1,
+        "explain": "put sth into a bottle. into stresses the idea of 'going in'."
+      },
+      {
+        "id": "m2",
+        "page": "p6",
+        "prompt": "Both girls ______ to each other regularly now.",
+        "options": [
+          "wrote",
+          "write",
+          "will write"
+        ],
+        "answer": 1,
+        "explain": "The time markers now and regularly take the present simple, and both girls is plural."
+      },
+      {
+        "id": "m3",
+        "page": "p6",
+        "prompt": "However, they ______ to use the post office.",
+        "options": [
+          "decided",
+          "have decided",
+          "decide"
+        ],
+        "answer": 1,
+        "explain": "The present perfect stresses the effect on the present: no more drift bottles."
+      },
+      {
+        "id": "m4",
+        "page": "p5",
+        "prompt": "Last year, we ______ across the Channel.",
+        "options": [
+          "travelled",
+          "were travelling",
+          "have travelled"
+        ],
+        "answer": 1,
+        "explain": "Before 'and' the past continuous gives the background, an action in progress."
+      },
+      {
+        "id": "m5",
+        "page": "p7",
+        "prompt": "Which sentence states something very likely to happen in the future?",
+        "options": [
+          "She threw the bottle into the sea.",
+          "Letters will cost a little more.",
+          "Both girls write to each other regularly now."
+        ],
+        "answer": 1,
+        "explain": "will + infinitive is the future simple, used for what is very likely to happen."
+      },
+      {
+        "id": "m6",
+        "page": "p8",
+        "prompt": "What does the preposition of express?",
+        "options": [
+          "A link between two things",
+          "A starting point",
+          "A container or frame",
+          "A contact surface"
+        ],
+        "answer": 0,
+        "explain": "of = a link between two things. From is the starting point, in the container, on the surface."
+      },
+      {
+        "id": "m7",
+        "page": "p2",
+        "prompt": "When it means the English Channel, the word channel ______.",
+        "options": [
+          "takes a capital C: the Channel",
+          "takes a small c: the channel",
+          "is replaced by Chanel"
+        ],
+        "answer": 0,
+        "explain": "The handout says the C must be capitalised; lower-case channel is just the ordinary noun."
+      },
+      {
+        "id": "m8",
+        "page": "p9",
+        "prompt": "She's suffering ______ back pain.",
+        "options": [
+          "of",
+          "from",
+          "in",
+          "on"
+        ],
+        "answer": 1,
+        "explain": "suffer from - to be troubled by an illness or pain."
+      },
+      {
+        "id": "m9",
+        "page": "p3",
+        "prompt": "He ______ his shirt to me.",
+        "options": [
+          "throwed",
+          "threw",
+          "thrown"
+        ],
+        "answer": 1,
+        "explain": "The past forms of throw are threw-thrown, never 'throwed'."
+      }
+    ],
+    "gap": [
+      {
+        "id": "g1",
+        "page": "p1",
+        "prompt": "She dreamed ______ becoming a chef.",
+        "accepts": [
+          "of",
+          "about"
+        ],
+        "answer": "of / about",
+        "explain": "dream of/about + doing sth."
+      },
+      {
+        "id": "g2",
+        "page": "p2",
+        "prompt": "In Britain, schooling starts ______ age 5.",
+        "accepts": [
+          "at"
+        ],
+        "answer": "at",
+        "explain": "at the age of + number / at age + number."
+      },
+      {
+        "id": "g3",
+        "page": "p2",
+        "prompt": "Kids need friends ______ their own age to play with.",
+        "accepts": [
+          "of"
+        ],
+        "answer": "of",
+        "explain": "noun + of one's own age = the same age as the person."
+      },
+      {
+        "id": "g4",
+        "page": "p5",
+        "prompt": "Jane put a piece of paper ______ a bottle.",
+        "accepts": [
+          "into"
+        ],
+        "answer": "into",
+        "explain": "put sth into a bottle."
+      },
+      {
+        "id": "g5",
+        "page": "p5",
+        "prompt": "She threw the bottle ______ the sea.",
+        "accepts": [
+          "into"
+        ],
+        "answer": "into",
+        "explain": "throw sth into - into stresses 'going in'."
+      },
+      {
+        "id": "g6",
+        "page": "p8",
+        "prompt": "Breakfast consists ______ bread and milk.",
+        "accepts": [
+          "of"
+        ],
+        "answer": "of",
+        "explain": "consist of - to be made up of."
+      },
+      {
+        "id": "g7",
+        "page": "p9",
+        "prompt": "Please fill ______ this application form.",
+        "accepts": [
+          "in"
+        ],
+        "answer": "in",
+        "explain": "fill in - to complete a form."
+      },
+      {
+        "id": "g8",
+        "page": "p9",
+        "prompt": "Let's call ______ Kate on the way home.",
+        "accepts": [
+          "on"
+        ],
+        "answer": "on",
+        "explain": "call on - to visit somebody."
+      },
+      {
+        "id": "g9",
+        "page": "p10",
+        "prompt": "Pay attention ______ what the teacher says.",
+        "accepts": [
+          "to"
+        ],
+        "answer": "to",
+        "explain": "verb + noun + preposition: pay attention to."
+      },
+      {
+        "id": "g10",
+        "page": "p1",
+        "prompt": "I dreamt ______ you last night.",
+        "accepts": [
+          "about"
+        ],
+        "answer": "about",
+        "explain": "dream about sb - the handout's own sentence is I dreamt about you last night."
+      },
+      {
+        "id": "g11",
+        "page": "p9",
+        "prompt": "My son believes ______ Santa Claus.",
+        "accepts": [
+          "in"
+        ],
+        "answer": "in",
+        "explain": "believe in - to trust, to have faith in."
+      },
+      {
+        "id": "g12",
+        "page": "p9",
+        "prompt": "Focus ______ your own problems.",
+        "accepts": [
+          "on"
+        ],
+        "answer": "on",
+        "explain": "focus on - to concentrate on."
+      }
+    ],
+    "tf": [
+      {
+        "id": "t1",
+        "page": "p2",
+        "statement": "The word meaning the English Channel can be written with a small c: the channel.",
+        "answer": false,
+        "explain": "False. The handout says the C must be capitalised when it means the English Channel."
+      },
+      {
+        "id": "t2",
+        "page": "p3",
+        "statement": "throw sth to sb stresses the direction, while throw sth at sb stresses the target.",
+        "answer": true,
+        "explain": "True. to = direction, at = target."
+      },
+      {
+        "id": "t3",
+        "page": "p3",
+        "statement": "The past forms of throw are threw and thrown.",
+        "answer": true,
+        "explain": "True. threw-thrown; 'throwed' does not exist."
+      },
+      {
+        "id": "t4",
+        "page": "p4",
+        "statement": "never dreamed of receiving is in the present perfect.",
+        "answer": false,
+        "explain": "False. It is the past simple; never + past simple means 'never at that time'."
+      },
+      {
+        "id": "t5",
+        "page": "p6",
+        "statement": "have decided is the present perfect and stresses the effect on the present.",
+        "answer": true,
+        "explain": "True. The effect is that they no longer send letters in bottles."
+      },
+      {
+        "id": "t6",
+        "page": "p4",
+        "statement": "After the preposition of you can use the bare verb: dreamed of receive.",
+        "answer": false,
+        "explain": "False. A verb after a preposition takes -ing: dreamed of receiving."
+      },
+      {
+        "id": "t7",
+        "page": "p7",
+        "statement": "The handout marks /flap t/ on letter, bottle and little.",
+        "answer": true,
+        "explain": "True. It also gives the transcription /ˈdɔːtər/ for daughter."
+      },
+      {
+        "id": "t8",
+        "page": "p7",
+        "statement": "The handout's pronunciation page marks sentence stress and intonation.",
+        "answer": false,
+        "explain": "False. It marks only the transcription of daughter, the linking arcs, /flap t/, the weak forms and the // pause."
+      },
+      {
+        "id": "t9",
+        "page": "p6",
+        "statement": "both takes a plural noun and a plural verb.",
+        "answer": true,
+        "explain": "True. both girls = Jane and the Dutch girl, so the verb is plural: write."
+      }
+    ],
+    "order": [
+      {
+        "id": "o1",
+        "page": "p5",
+        "tokens": [
+          "Jane",
+          "put",
+          "a piece of paper",
+          "into",
+          "a bottle"
+        ],
+        "target": "Jane put a piece of paper into a bottle.",
+        "hint": "The key action after 'and'."
+      },
+      {
+        "id": "o2",
+        "page": "p5",
+        "tokens": [
+          "She",
+          "threw",
+          "the bottle",
+          "into",
+          "the sea"
+        ],
+        "target": "She threw the bottle into the sea.",
+        "hint": "throw sth into ..."
+      },
+      {
+        "id": "o3",
+        "page": "p6",
+        "tokens": [
+          "Both girls",
+          "write",
+          "to each other",
+          "regularly",
+          "now"
+        ],
+        "target": "Both girls write to each other regularly now.",
+        "hint": "Present simple with now."
+      },
+      {
+        "id": "o4",
+        "page": "p6",
+        "tokens": [
+          "However",
+          "they",
+          "have decided",
+          "to use",
+          "the post office"
+        ],
+        "target": "However, they have decided to use the post office.",
+        "hint": "Present perfect; However takes a comma."
+      },
+      {
+        "id": "o5",
+        "page": "p7",
+        "tokens": [
+          "Letters",
+          "will cost",
+          "a little more"
+        ],
+        "target": "Letters will cost a little more.",
+        "hint": "Future simple."
+      },
+      {
+        "id": "o6",
+        "page": "p4",
+        "tokens": [
+          "My daughter",
+          "Jane",
+          "never dreamed of",
+          "receiving a letter"
+        ],
+        "target": "My daughter, Jane, never dreamed of receiving a letter.",
+        "hint": "Jane is an appositive, set off by commas."
+      }
+    ],
+    "match": [
+      {
+        "id": "c1",
+        "page": "p8",
+        "title": "Match each preposition with its core idea",
+        "left": [
+          "in",
+          "on",
+          "from",
+          "of"
+        ],
+        "right": [
+          "inside, within a frame or container",
+          "on top of, making contact with a surface",
+          "leaving a starting point, away from",
+          "a link between two things"
+        ]
+      },
+      {
+        "id": "c2",
+        "page": "p8-p9",
+        "title": "Match each verb + preposition with its meaning",
+        "left": [
+          "consist of",
+          "hear of",
+          "benefit from",
+          "suffer from",
+          "believe in",
+          "call on"
+        ],
+        "right": [
+          "to be made up of",
+          "to hear about",
+          "to gain from",
+          "to be troubled by an illness or pain",
+          "to trust, to have faith in",
+          "to visit somebody"
+        ]
+      },
+      {
+        "id": "c3",
+        "page": "p4-p7",
+        "title": "Match each verb form with its tense",
+        "left": [
+          "were travelling",
+          "received",
+          "have decided",
+          "will travel"
+        ],
+        "right": [
+          "past continuous",
+          "past simple",
+          "present perfect",
+          "future simple"
+        ]
+      }
+    ],
+    "write": {
+      "intro": "Write the imitation one sentence at a time. The names and places are already given; you only build the key chunks. Click a word chip or type your own, then check that sentence.",
+      "modelNote": "The handout's own model text is the answer key for the seven frames.",
+      "frames": [
+        {
+          "id": "w1",
+          "page": "p10",
+          "label": "Sentence 1 - opening (past simple)",
+          "parts": [
+            {
+              "t": "My best friend, "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": ", never dreamed of "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": " a "
+            },
+            {
+              "b": 2
+            },
+            {
+              "t": " from a "
+            },
+            {
+              "b": 3
+            },
+            {
+              "t": " of his/her own age."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "your friend's name",
+              "anyNonEmpty": true,
+              "bank": [
+                "Mary",
+                "Tom",
+                "Lucy",
+                "Anna",
+                "Jack"
+              ]
+            },
+            {
+              "hint": "verb + -ing after a preposition",
+              "accepts": [
+                "receiving",
+                "getting"
+              ],
+              "bank": [
+                "receiving",
+                "getting",
+                "receive",
+                "got"
+              ]
+            },
+            {
+              "hint": "what arrives",
+              "accepts": [
+                "letter",
+                "email",
+                "message",
+                "note"
+              ],
+              "bank": [
+                "letter",
+                "email",
+                "message",
+                "note"
+              ]
+            },
+            {
+              "hint": "a person of the same age",
+              "accepts": [
+                "boy",
+                "girl",
+                "student",
+                "friend"
+              ],
+              "bank": [
+                "boy",
+                "girl",
+                "student",
+                "friend"
+              ]
+            }
+          ],
+          "model": "My best friend, Mary, never dreamed of receiving an email from a boy of her own age."
+        },
+        {
+          "id": "w2",
+          "page": "p10",
+          "label": "Sentence 2 - background + key action (past continuous + past simple)",
+          "parts": [
+            {
+              "t": "Last year, we were "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": " in the "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": " and "
+            },
+            {
+              "b": 2
+            },
+            {
+              "t": " put a "
+            },
+            {
+              "b": 3
+            },
+            {
+              "t": " with his/her name and "
+            },
+            {
+              "b": 4
+            },
+            {
+              "t": " on it into a "
+            },
+            {
+              "b": 5
+            },
+            {
+              "t": "."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "-ing form after were",
+              "accepts": [
+                "studying",
+                "reading",
+                "working"
+              ],
+              "bank": [
+                "studying",
+                "reading",
+                "working",
+                "study"
+              ]
+            },
+            {
+              "hint": "the place",
+              "accepts": [
+                "library",
+                "classroom",
+                "cafe",
+                "bookshop"
+              ],
+              "bank": [
+                "library",
+                "classroom",
+                "cafe",
+                "bookshop"
+              ]
+            },
+            {
+              "hint": "your friend's name (given already if you like)",
+              "anyNonEmpty": true,
+              "bank": [
+                "Mary",
+                "Tom",
+                "Lucy",
+                "Anna",
+                "Jack"
+              ]
+            },
+            {
+              "hint": "what she put inside",
+              "accepts": [
+                "note",
+                "piece of paper",
+                "card"
+              ],
+              "bank": [
+                "note",
+                "piece of paper",
+                "card"
+              ]
+            },
+            {
+              "hint": "contact detail",
+              "accepts": [
+                "email address",
+                "address",
+                "phone number"
+              ],
+              "bank": [
+                "email address",
+                "address",
+                "phone number"
+              ]
+            },
+            {
+              "hint": "where she put it",
+              "accepts": [
+                "book",
+                "novel",
+                "magazine",
+                "textbook"
+              ],
+              "bank": [
+                "book",
+                "novel",
+                "magazine",
+                "textbook"
+              ]
+            }
+          ],
+          "model": "Last year, we were studying in the library and Mary put a note with her name and email address on it into a book."
+        },
+        {
+          "id": "w3",
+          "page": "p10",
+          "label": "Sentence 3 - follow-up action (past simple)",
+          "parts": [
+            {
+              "t": "She put the "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": " back on the "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": "."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "the same object as in sentence 2",
+              "accepts": [
+                "book",
+                "novel",
+                "magazine",
+                "textbook"
+              ],
+              "bank": [
+                "book",
+                "novel",
+                "magazine",
+                "textbook"
+              ]
+            },
+            {
+              "hint": "where books live",
+              "accepts": [
+                "shelf",
+                "desk",
+                "table"
+              ],
+              "bank": [
+                "shelf",
+                "desk",
+                "table"
+              ]
+            }
+          ],
+          "model": "She put the book back on the shelf."
+        },
+        {
+          "id": "w4",
+          "page": "p10",
+          "label": "Sentence 4 - turning point and time jump (past simple)",
+          "parts": [
+            {
+              "t": "She never thought of it again, but "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": " months later, she received "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": " from "
+            },
+            {
+              "b": 2
+            },
+            {
+              "t": "."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "a number of months",
+              "accepts": [
+                "ten",
+                "10",
+                "three",
+                "six",
+                "two"
+              ],
+              "bank": [
+                "ten",
+                "10",
+                "three",
+                "six"
+              ]
+            },
+            {
+              "hint": "what arrived",
+              "accepts": [
+                "an email",
+                "a letter",
+                "an answer",
+                "a reply"
+              ],
+              "bank": [
+                "an email",
+                "a letter",
+                "an answer",
+                "a reply"
+              ]
+            },
+            {
+              "hint": "who wrote it",
+              "accepts": [
+                "a boy",
+                "a girl",
+                "a student",
+                "him",
+                "her"
+              ],
+              "bank": [
+                "a boy",
+                "a girl",
+                "a student"
+              ]
+            }
+          ],
+          "model": "She never thought of it again, but ten months later, she received an email from a boy."
+        },
+        {
+          "id": "w5",
+          "page": "p10",
+          "label": "Sentence 5 - deduction (must have done)",
+          "parts": [
+            {
+              "t": "The "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": " must have "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": " the "
+            },
+            {
+              "b": 2
+            },
+            {
+              "t": " with that "
+            },
+            {
+              "b": 3
+            },
+            {
+              "t": "."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "who found it",
+              "accepts": [
+                "boy",
+                "girl",
+                "student"
+              ],
+              "bank": [
+                "boy",
+                "girl",
+                "student"
+              ]
+            },
+            {
+              "hint": "bare verb after must have",
+              "accepts": [
+                "read",
+                "seen",
+                "found"
+              ],
+              "bank": [
+                "read",
+                "seen",
+                "found",
+                "reading"
+              ]
+            },
+            {
+              "hint": "the object again",
+              "accepts": [
+                "book",
+                "novel",
+                "magazine"
+              ],
+              "bank": [
+                "book",
+                "novel",
+                "magazine"
+              ]
+            },
+            {
+              "hint": "what was inside it",
+              "accepts": [
+                "note",
+                "piece of paper",
+                "card"
+              ],
+              "bank": [
+                "note",
+                "piece of paper",
+                "card"
+              ]
+            }
+          ],
+          "model": "The boy must have read the book with that note."
+        },
+        {
+          "id": "w6",
+          "page": "p10",
+          "label": "Sentence 6 - now and the decision (present simple + present perfect)",
+          "parts": [
+            {
+              "t": "They write to each other "
+            },
+            {
+              "b": 0
+            },
+            {
+              "t": " now. They have decided to "
+            },
+            {
+              "b": 1
+            },
+            {
+              "t": " one "
+            },
+            {
+              "b": 2
+            },
+            {
+              "t": "."
+            }
+          ],
+          "blanks": [
+            {
+              "hint": "how often",
+              "accepts": [
+                "regularly",
+                "often",
+                "every week"
+              ],
+              "bank": [
+                "regularly",
+                "often",
+                "every week"
+              ]
+            },
+            {
+              "hint": "verb after decided to",
+              "accepts": [
+                "meet up",
+                "meet",
+                "write",
+                "talk"
+              ],
+              "bank": [
+                "meet up",
+                "meet",
+                "write",
+                "talk"
+              ]
+            },
+            {
+              "hint": "day / week / month",
+              "accepts": [
+                "day",
+                "week",
+                "month"
+              ],
+              "bank": [
+                "day",
+                "week",
+                "month"
+              ]
+            }
+          ],
+          "model": "They write to each other regularly now. They have decided to meet up one day."
+        },
+        {
+          "id": "w7",
+          "page": "p10",
+          "label": "Sentence 7 - your own ending (free writing)",
+          "free": true,
+          "scored": false,
+          "prompt": "Write the last sentence yourself. What will happen next? Use will.",
+          "bank": [
+            "will meet",
+            "will write",
+            "will travel",
+            "next year",
+            "one day",
+            "certainly"
+          ],
+          "model": "They will meet in the library next year, and they will certainly become good friends."
+        }
+      ]
+    }
+  },
+  "practiceNote": "45 interactive items: 9 multiple choice, 12 gap fills, 9 true/false, 6 word-order tasks, 3 matching tasks and 7 guided writing frames (the last frame is free writing). Every item gives instant feedback and the reason; all content comes from the handout p1-p10."
+}

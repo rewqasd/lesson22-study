@@ -1,0 +1,105 @@
+graph LR
+  %% ============ Legend: tense palette, identical to timeline.svg ============
+  subgraph LG["Tense palette"]
+    L1["Past continuous #2563eb"]
+    L2["Past simple #16a34a"]
+    L3["Present perfect #ea580c"]
+    L4["Present simple #7c3aed"]
+    L5["Future simple #dc2626"]
+  end
+
+  %% ============ 1. The dream pattern network ============
+  subgraph G1["dream pattern network (p1 / p4 / p8)"]
+    D["dream - a dream; an ambition"]
+    D --> D1["dream of/about + sb/sth"]
+    D --> D2["dream of/about + doing sth"]
+    D --> D3["dream that + clause"]
+    D --> D4["daydream about - to fantasise"]
+    D1 --> D1a["never dreamed of receiving"]
+    D2 --> D2a["dreamed of becoming a chef"]
+  end
+
+  %% ============ 2. Confusables and contrasts ============
+  subgraph G2["Confusables and contrasts (p2 / p3)"]
+    C1["channel - sea channel; passage"]
+    C2["Chanel - the luxury brand"]
+    C1 -. "one letter apart" .-> C2
+    T1["throw sth to sb"]
+    T2["throw sth at sb"]
+    T1 -. "to = direction" .-> T2
+    D -. "two senses" .-> DY["daydream - a waking fantasy"]
+    D -. "capital letter makes it a name" .-> CH["the Channel - the English Channel"]
+  end
+
+  %% ============ 3. Verb + preposition network ============
+  subgraph G3["Verb + preposition network (p8-p10)"]
+    POF["of - a link between two things"]
+    PFR["from - leaving a starting point"]
+    PIN["in - inside, within a frame"]
+    PON["on - contact surface"]
+
+    POF --> O1["consist of - to be made up of"]
+    POF --> O2["hear of - to hear about"]
+    POF --> O3["dream of - to hope to do"]
+
+    PFR --> F1["benefit from - to gain from"]
+    PFR --> F2["suffer from - to be troubled by"]
+    PFR --> F3["receive a letter from"]
+
+    PIN --> I1["believe in - to trust"]
+    PIN --> I2["fill in - to complete a form"]
+    PIN --> I3["be stuck in a traffic jam"]
+
+    PON --> N1["call on - to visit"]
+    PON --> N2["focus on - to concentrate on"]
+    PON --> N3["concentrate on - to give full attention"]
+    PON --> N4["The check is on me - I am paying"]
+
+    POF --> PV["verb + preposition = phrasal verb"]
+    PFR --> PV
+    PIN --> PV
+    PON --> PV
+    PV --> PVP["pay attention to - verb + noun + preposition"]
+    PV --> PVE["fight = fight against - same meaning either way"]
+  end
+
+  %% ============ 4. Tense contrast ============
+  subgraph G4["Tense contrast (text, p5-p7)"]
+    PC["Past continuous: were travelling across the Channel"]
+    PS["Past simple: put into a bottle / threw into the sea / received a letter"]
+    PSIM["Present simple: Both girls write regularly now"]
+    PP["Present perfect: have decided to use the post office"]
+    FS["Future simple: will cost a little more / will travel faster"]
+    PC -- "before 'and': background, in progress" --> PS
+    PS -- "after 'but': the story is not over" --> PSIM
+    PSIM -- "However: the way of sending changed" --> PP
+    PP -- "and so, in the future" --> FS
+  end
+
+  %% ============ 5. Text logic chain ============
+  subgraph G5["Text logic chain, seven sentences"]
+    S1["1 never dreamed of receiving - Jane is an appositive"]
+    S2["2 were travelling + put into"]
+    S3["3 threw into the sea"]
+    S4["4 never thought of it again, but ten months later"]
+    S5["5 write to each other regularly now"]
+    S6["6 However, have decided to use"]
+    S7["7 will cost more, but will travel faster"]
+    S1 --> S2 --> S3 --> S4 --> S5 --> S6 --> S7
+    S1 -. "review L21" .-> R1["it came into use (p5)"]
+    S5 -. "review L14" .-> R2["Neither of us spoke (p6)"]
+  end
+
+  classDef pc fill:#2563eb,stroke:#1e40af,color:#ffffff
+  classDef ps fill:#16a34a,stroke:#15803d,color:#ffffff
+  classDef pp fill:#ea580c,stroke:#c2410c,color:#ffffff
+  classDef psim fill:#7c3aed,stroke:#6d28d9,color:#ffffff
+  classDef fs fill:#dc2626,stroke:#b91c1c,color:#ffffff
+  classDef prep fill:#f1f5f9,stroke:#94a3b8,color:#0f172a
+
+  class L1,PC pc
+  class L2,PS ps
+  class L3,PP pp
+  class L4,PSIM psim
+  class L5,FS fs
+  class POF,PFR,PIN,PON prep

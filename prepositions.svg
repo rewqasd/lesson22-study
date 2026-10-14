@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <title>Preposition image schemas: in / on / from / of (New Concept Book 2, Lesson 22 handout, p8-p9)</title>
+  <defs>
+    <marker id="arrIn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+    <marker id="arrOn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/>
+    </marker>
+    <marker id="arrFrom" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="60" fill="#0f172a"/>
+  <text x="30" y="39" font-size="22" font-weight="700" fill="#ffffff">Preposition image schemas &#183; in / on / from / of</text>
+  <text x="1170" y="39" font-size="14" fill="#94a3b8" text-anchor="end">New Concept Book 2, Lesson 22 handout, p8-p9</text>
+
+  <!-- ================= in ================= -->
+  <rect x="10" y="70" width="580" height="390" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="40" y="126" font-size="40" font-weight="700" fill="#2563eb">in</text>
+  <text x="40" y="152" font-size="17" fill="#334155">Core: inside, within a frame or container</text>
+  <rect x="200" y="190" width="200" height="88" rx="8" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+  <line x1="110" y1="234" x2="192" y2="234" stroke="#2563eb" stroke-width="3" marker-end="url(#arrIn)"/>
+  <circle cx="300" cy="234" r="9" fill="#2563eb"/>
+  <text x="40" y="292" font-size="12.5" fill="#64748b">From outside to inside: entering a container or frame</text>
+  <line x1="40" y1="312" x2="560" y2="312" stroke="#dbeafe" stroke-width="1"/>
+  <text x="40" y="332" font-size="12" fill="#94a3b8" letter-spacing="1">EXAMPLES</text>
+  <text x="40" y="356" font-size="14.5" fill="#0f172a">I never went in pubs.</text>
+  <text x="40" y="376" font-size="13" fill="#64748b">I never went into pubs.</text>
+  <text x="40" y="400" font-size="14.5" fill="#0f172a">I got stuck in a traffic jam for half an hour.</text>
+  <text x="40" y="420" font-size="13" fill="#64748b">I was stuck in a traffic jam for half an hour.</text>
+  <text x="40" y="446" font-size="12.5" fill="#2563eb">Extended: believe in - to trust / fill in - to complete a form</text>
+
+  <!-- ================= on ================= -->
+  <rect x="610" y="70" width="580" height="390" rx="14" fill="#f0fdf4" stroke="#bbf7d0"/>
+  <text x="640" y="126" font-size="40" font-weight="700" fill="#16a34a">on</text>
+  <text x="640" y="152" font-size="17" fill="#334155">Core: on top of, making contact with a surface</text>
+  <line x1="740" y1="260" x2="1060" y2="260" stroke="#16a34a" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="900" cy="242" r="18" fill="#16a34a" fill-opacity="0.18" stroke="#16a34a" stroke-width="2.5"/>
+  <line x1="900" y1="182" x2="900" y2="218" stroke="#16a34a" stroke-width="3" marker-end="url(#arrOn)"/>
+  <text x="640" y="292" font-size="12.5" fill="#64748b">An object resting on a surface: contact brings focus</text>
+  <line x1="640" y1="312" x2="1160" y2="312" stroke="#dcfce7" stroke-width="1"/>
+  <text x="640" y="332" font-size="12" fill="#94a3b8" letter-spacing="1">EXAMPLES</text>
+  <text x="640" y="356" font-size="14.5" fill="#0f172a">Be quiet – let me concentrate on my homework.</text>
+  <text x="640" y="376" font-size="13" fill="#64748b">Be quiet, let me give my full attention to my homework.</text>
+  <text x="640" y="400" font-size="14.5" fill="#0f172a">The check is on me this time.</text>
+  <text x="640" y="420" font-size="13" fill="#64748b">I am paying the bill this time.</text>
+  <text x="640" y="446" font-size="12.5" fill="#16a34a">Extended: call on - to visit / focus on - to concentrate on</text>
+
+  <!-- ================= from ================= -->
+  <rect x="10" y="470" width="580" height="390" rx="14" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="40" y="526" font-size="40" font-weight="700" fill="#ea580c">from</text>
+  <text x="40" y="552" font-size="17" fill="#334155">Core: leaving a starting point, away from</text>
+  <line x1="170" y1="582" x2="170" y2="670" stroke="#ea580c" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="170" y="576" font-size="12.5" fill="#ea580c" text-anchor="middle">start</text>
+  <circle cx="170" cy="634" r="11" fill="#ffffff" stroke="#ea580c" stroke-width="3"/>
+  <circle cx="170" cy="634" r="4" fill="#ea580c"/>
+  <line x1="186" y1="634" x2="440" y2="634" stroke="#ea580c" stroke-width="3" marker-end="url(#arrFrom)"/>
+  <text x="40" y="692" font-size="12.5" fill="#64748b">The arrow leaves the starting point and moves away</text>
+  <line x1="40" y1="712" x2="560" y2="712" stroke="#ffedd5" stroke-width="1"/>
+  <text x="40" y="732" font-size="12" fill="#94a3b8" letter-spacing="1">EXAMPLES</text>
+  <text x="40" y="756" font-size="14.5" fill="#0f172a">She began to walk away from him.</text>
+  <text x="40" y="776" font-size="13" fill="#64748b">She started to walk away from him.</text>
+  <text x="40" y="800" font-size="14.5" fill="#0f172a">I don't like to borrow from friends.</text>
+  <text x="40" y="820" font-size="13" fill="#64748b">I don't like borrowing money from friends.</text>
+  <text x="40" y="846" font-size="12.5" fill="#ea580c">Extended: benefit from - to gain from / suffer from - to be troubled by</text>
+
+  <!-- ================= of ================= -->
+  <rect x="610" y="470" width="580" height="390" rx="14" fill="#f5f3ff" stroke="#ddd6fe"/>
+  <text x="640" y="526" font-size="40" font-weight="700" fill="#7c3aed">of</text>
+  <text x="640" y="552" font-size="17" fill="#334155">Core: a link between two things</text>
+  <line x1="850" y1="634" x2="950" y2="634" stroke="#7c3aed" stroke-width="4"/>
+  <circle cx="810" cy="634" r="40" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+  <text x="810" y="639" font-size="13" fill="#4c1d95" text-anchor="middle">dream</text>
+  <circle cx="990" cy="634" r="40" fill="#ffffff" stroke="#7c3aed" stroke-width="2.5"/>
+  <text x="990" y="639" font-size="13" fill="#4c1d95" text-anchor="middle">her</text>
+  <text x="640" y="692" font-size="12.5" fill="#64748b">Two nodes with a relation between them</text>
+  <line x1="640" y1="712" x2="1160" y2="712" stroke="#ede9fe" stroke-width="1"/>
+  <text x="640" y="732" font-size="12" fill="#94a3b8" letter-spacing="1">EXAMPLES</text>
+  <text x="640" y="756" font-size="14.5" fill="#0f172a">He'd been dreaming of her.</text>
+  <text x="640" y="776" font-size="13" fill="#64748b">He kept dreaming about her.</text>
+  <text x="640" y="800" font-size="14.5" fill="#0f172a">Listen, I shall be thinking of you always.</text>
+  <text x="640" y="820" font-size="13" fill="#64748b">Listen, I will always remember you.</text>
+  <text x="640" y="846" font-size="12.5" fill="#7c3aed">Extended: consist of - to be made up of / hear of - to hear about</text>
+</svg>

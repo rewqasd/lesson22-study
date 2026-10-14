@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1310" width="1200" height="1310" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <title>Tense timeline, Lesson 22 (New Concept Book 2, Lesson 22 handout, p4-p7)</title>
+  <defs>
+    <marker id="arrTime" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="64" fill="#0f172a"/>
+  <text x="30" y="41" font-size="22" font-weight="700" fill="#ffffff">Tense timeline &#183; Lesson 22</text>
+  <text x="1170" y="41" font-size="14" fill="#94a3b8" text-anchor="end">New Concept Book 2, Lesson 22 handout, p4-p7</text>
+
+  <!-- Legend: five tenses, colours identical to data.json and concept-map.mmd -->
+  <rect x="30" y="80" width="210" height="32" rx="16" fill="#2563eb"/>
+  <text x="135" y="101" font-size="14" fill="#ffffff" text-anchor="middle">Past continuous</text>
+  <text x="34" y="132" font-size="11.5" fill="#64748b">background, in progress</text>
+
+  <rect x="255" y="80" width="210" height="32" rx="16" fill="#16a34a"/>
+  <text x="360" y="101" font-size="14" fill="#ffffff" text-anchor="middle">Past simple</text>
+  <text x="259" y="132" font-size="11.5" fill="#64748b">single finished action</text>
+
+  <rect x="480" y="80" width="210" height="32" rx="16" fill="#ea580c"/>
+  <text x="585" y="101" font-size="14" fill="#ffffff" text-anchor="middle">Present perfect</text>
+  <text x="484" y="132" font-size="11.5" fill="#64748b">effect on the present</text>
+
+  <rect x="705" y="80" width="210" height="32" rx="16" fill="#7c3aed"/>
+  <text x="810" y="101" font-size="14" fill="#ffffff" text-anchor="middle">Present simple</text>
+  <text x="709" y="132" font-size="11.5" fill="#64748b">habit now, with 'now'</text>
+
+  <rect x="930" y="80" width="210" height="32" rx="16" fill="#dc2626"/>
+  <text x="1035" y="101" font-size="14" fill="#ffffff" text-anchor="middle">Future simple</text>
+  <text x="934" y="132" font-size="11.5" fill="#64748b">very likely to happen</text>
+
+  <!-- Time bands -->
+  <rect x="70" y="166" width="1110" height="674" rx="12" fill="#f8fafc"/>
+  <rect x="70" y="840" width="1110" height="268" rx="12" fill="#f1f5f9"/>
+  <rect x="70" y="1108" width="1110" height="138" rx="12" fill="#f8fafc"/>
+  <text x="100" y="503" transform="rotate(-90 100 503)" font-size="16" fill="#94a3b8" letter-spacing="4" text-anchor="middle">PAST</text>
+  <text x="100" y="974" transform="rotate(-90 100 974)" font-size="16" fill="#94a3b8" letter-spacing="4" text-anchor="middle">NOW</text>
+  <text x="100" y="1177" transform="rotate(-90 100 1177)" font-size="16" fill="#94a3b8" letter-spacing="4" text-anchor="middle">FUTURE</text>
+  <text x="150" y="160" font-size="12" fill="#94a3b8" text-anchor="middle">story opens</text>
+
+  <!-- Time axis -->
+  <line x1="150" y1="166" x2="150" y2="1232" stroke="#cbd5e1" stroke-width="3" marker-end="url(#arrTime)"/>
+
+  <!-- Row 1: last year, story opens - past simple -->
+  <line x1="180" y1="170" x2="1160" y2="170" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="214" x2="176" y2="214" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="150" cy="214" r="10" fill="#16a34a" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="196" width="199" height="30" rx="15" fill="#16a34a"/>
+  <text x="190" y="216" font-size="14" fill="#ffffff">Last year (story opens)</text>
+  <text x="387" y="216" font-size="13.5" font-weight="600" fill="#16a34a">Past simple</text>
+  <text x="176" y="248" font-size="15.5" fill="#0f172a">My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.</text>
+  <text x="176" y="270" font-size="13.5" fill="#64748b">Jane never expected a letter from a girl her own age in Holland.</text>
+  <text x="176" y="290" font-size="12.5" fill="#94a3b8">Handout: past simple sets the whole story in the past; never = never at that time</text>
+
+  <!-- Row 2: last year, background - past continuous -->
+  <line x1="180" y1="304" x2="1160" y2="304" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="348" x2="176" y2="348" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="150" cy="348" r="10" fill="#2563eb" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="330" width="191" height="30" rx="15" fill="#2563eb"/>
+  <text x="190" y="350" font-size="14" fill="#ffffff">Last year - background</text>
+  <text x="379" y="350" font-size="13.5" font-weight="600" fill="#2563eb">Past continuous</text>
+  <text x="176" y="382" font-size="15.5" fill="#0f172a">we were travelling across the Channel</text>
+  <text x="176" y="404" font-size="13.5" fill="#64748b">We were crossing the English Channel.</text>
+  <text x="176" y="424" font-size="12.5" fill="#94a3b8">Handout: before 'and' the past continuous gives the background, an action in progress</text>
+
+  <!-- Row 3: last year, key action - past simple -->
+  <line x1="180" y1="438" x2="1160" y2="438" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="482" x2="176" y2="482" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="150" cy="482" r="10" fill="#16a34a" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="464" width="191" height="30" rx="15" fill="#16a34a"/>
+  <text x="190" y="484" font-size="14" fill="#ffffff">Last year - key action</text>
+  <text x="379" y="484" font-size="13.5" font-weight="600" fill="#16a34a">Past simple</text>
+  <text x="176" y="516" font-size="15.5" fill="#0f172a">Jane put a piece of paper with her name and address on it into a bottle</text>
+  <text x="176" y="538" font-size="13.5" fill="#64748b">Jane put a piece of paper with her name and address on it into a bottle.</text>
+  <text x="176" y="558" font-size="12.5" fill="#94a3b8">Handout: after 'and' the past simple gives the point, one finished action</text>
+
+  <!-- Row 4: straight afterwards - past simple -->
+  <line x1="180" y1="572" x2="1160" y2="572" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="616" x2="176" y2="616" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="150" cy="616" r="10" fill="#16a34a" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="598" width="161" height="30" rx="15" fill="#16a34a"/>
+  <text x="190" y="618" font-size="14" fill="#ffffff">Straight afterwards</text>
+  <text x="349" y="618" font-size="13.5" font-weight="600" fill="#16a34a">Past simple</text>
+  <text x="176" y="650" font-size="15.5" fill="#0f172a">She threw the bottle into the sea.</text>
+  <text x="176" y="672" font-size="13.5" fill="#64748b">She tossed the bottle into the sea.</text>
+  <text x="176" y="692" font-size="12.5" fill="#94a3b8">Handout: throw sth into - into stresses 'going in'</text>
+
+  <!-- Row 5: ten months later - past simple -->
+  <line x1="180" y1="706" x2="1160" y2="706" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="750" x2="176" y2="750" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="150" cy="750" r="10" fill="#16a34a" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="732" width="138" height="30" rx="15" fill="#16a34a"/>
+  <text x="190" y="752" font-size="14" fill="#ffffff">Ten months later</text>
+  <text x="326" y="752" font-size="13.5" font-weight="600" fill="#16a34a">Past simple</text>
+  <text x="176" y="784" font-size="15.5" fill="#0f172a">she received a letter from a girl in Holland</text>
+  <text x="176" y="806" font-size="13.5" fill="#64748b">She got a letter from a girl in Holland.</text>
+  <text x="176" y="826" font-size="12.5" fill="#94a3b8">Handout: the point comes after 'but'; the story is not over</text>
+
+  <!-- Row 6: now - present simple -->
+  <line x1="180" y1="844" x2="1160" y2="844" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="884" x2="176" y2="884" stroke="#7c3aed" stroke-width="2"/>
+  <circle cx="150" cy="884" r="10" fill="#7c3aed" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="866" width="47" height="30" rx="15" fill="#7c3aed"/>
+  <text x="190" y="886" font-size="14" fill="#ffffff">Now</text>
+  <text x="235" y="886" font-size="13.5" font-weight="600" fill="#7c3aed">Present simple</text>
+  <text x="176" y="918" font-size="15.5" fill="#0f172a">Both girls write to each other regularly now.</text>
+  <text x="176" y="940" font-size="13.5" fill="#64748b">The two girls now write to each other at regular intervals.</text>
+  <text x="176" y="960" font-size="12.5" fill="#94a3b8">Handout: time marker now; both + plural noun and verb; regularly = how often</text>
+
+  <!-- Row 7: now, effect on now - present perfect -->
+  <line x1="180" y1="974" x2="1160" y2="974" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="1018" x2="176" y2="1018" stroke="#ea580c" stroke-width="2"/>
+  <circle cx="150" cy="1018" r="10" fill="#ea580c" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="1000" width="168" height="30" rx="15" fill="#ea580c"/>
+  <text x="190" y="1020" font-size="14" fill="#ffffff">Now - effect on now</text>
+  <text x="356" y="1020" font-size="13.5" font-weight="600" fill="#ea580c">Present perfect</text>
+  <text x="176" y="1052" font-size="15.5" fill="#0f172a">However, they have decided to use the post office.</text>
+  <text x="176" y="1074" font-size="13.5" fill="#64748b">Even so, they have made up their minds to use the post office.</text>
+  <text x="176" y="1094" font-size="12.5" fill="#94a3b8">Handout: present perfect stresses the effect on the present - no more bottles</text>
+
+  <!-- Row 8: in the future - future simple -->
+  <line x1="180" y1="1112" x2="1160" y2="1112" stroke="#e2e8f0" stroke-width="1"/>
+  <line x1="160" y1="1152" x2="176" y2="1152" stroke="#dc2626" stroke-width="2"/>
+  <circle cx="150" cy="1152" r="10" fill="#dc2626" stroke="#ffffff" stroke-width="3"/>
+  <rect x="176" y="1134" width="123" height="30" rx="15" fill="#dc2626"/>
+  <text x="190" y="1154" font-size="14" fill="#ffffff">In the future</text>
+  <text x="311" y="1154" font-size="13.5" font-weight="600" fill="#dc2626">Future simple</text>
+  <text x="176" y="1186" font-size="15.5" fill="#0f172a">Letters will cost a little more, but they will certainly travel faster.</text>
+  <text x="176" y="1208" font-size="13.5" fill="#64748b">Letters will cost slightly more, but they will certainly be faster.</text>
+  <text x="176" y="1228" font-size="12.5" fill="#94a3b8">Handout: very likely to happen; cost takes a thing as subject - sth cost sb + money</text>
+
+  <text x="30" y="1272" font-size="11.5" fill="#94a3b8">Colour convention: these five colours mark tense only - past continuous blue, past simple green, present perfect orange,</text>
+  <text x="30" y="1292" font-size="11.5" fill="#94a3b8">present simple purple, future simple red. The four preposition colours live in prepositions.svg; the two palettes are never mixed.</text>
+</svg>
